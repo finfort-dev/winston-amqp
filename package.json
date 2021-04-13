@@ -1,5 +1,5 @@
 {
-  "name": "winston-amqp",
+  "name": "@finfort-dev/winston-amqp",
   "version": "0.1.0",
   "description": "Winston AMQP transport",
   "main": "index.js",
