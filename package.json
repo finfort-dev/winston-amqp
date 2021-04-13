@@ -1,0 +1,25 @@
+{
+  "name": "winston-amqp",
+  "version": "0.1.0",
+  "description": "Winston AMQP transport",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finfort-dev/winston-amqp.git"
+  },
+  "keywords": [
+    "winston",
+    "transport",
+    "amqp",
+    "rabbitmq"
+  ],
+  "author": "Oleg Aleksandrovich og@finfort.ru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finfort-dev/winston-amqp/issues"
+  },
+  "homepage": "https://github.com/finfort-dev/winston-amqp#readme"
+}
